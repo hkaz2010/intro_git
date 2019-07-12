@@ -1,0 +1,8 @@
+
+
+git config --global user.name "hkaz2010"
+
+git config --global user.email hkaz2010@i.softbank.jp
+
+
+aaaaaaa
