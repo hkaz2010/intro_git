@@ -6,3 +6,5 @@ git config --global user.email hkaz2010@i.softbank.jp
 
 
 aaaaaaa
+
+bbbbbbb
